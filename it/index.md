@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Homepage di esempio
-description: Questo è un esempio di homepage con utilizzo del componente "hero"
+description: Hey! Benvenuto!
 lang: it
 ref: homepage
 permalink: /
